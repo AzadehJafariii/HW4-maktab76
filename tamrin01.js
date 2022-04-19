@@ -8,3 +8,4 @@ function exponentOfNumber(x,n){
     return x * exponentOfNumber (x, n - 1);
 }
 console.log(exponentOfNumber(2,3));
+ 
