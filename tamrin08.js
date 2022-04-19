@@ -1,5 +1,5 @@
 
-// function get full name of month from a particular
+// function get full name of month from a particular input:
 
 function fullMonthName (d){
     const monthNames = ["January", "February", "March", "April", "May", "June",
