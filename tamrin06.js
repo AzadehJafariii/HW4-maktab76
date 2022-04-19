@@ -1,5 +1,5 @@
 
-// sum of rounded numbers of array using reduce:
+// function sum of rounded numbers of array using reduce:
 
 function sumArray (array){
     return array.reduce(function(sum , current){
