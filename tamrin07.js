@@ -1,5 +1,5 @@
 
-// get current date and pass seperator "/" and "-":
+// function to get current date and pass seperator "/" and "-":
 
 function printCurrentDate(d1){
     const date = ('0' + d1.getDate()).slice(-2);
