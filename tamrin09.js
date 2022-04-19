@@ -1,5 +1,5 @@
 
-//function hide user email address to protect:
+//function hide user email address to protection:
 
 protect_email = function (user_email) {
     
