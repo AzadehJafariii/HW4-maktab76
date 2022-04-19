@@ -1,6 +1,6 @@
 
 
-// function declaration computing sum of array:
+// function declaration for computing sum of array:
 
 function sumArray (array){
     return array.reduce(function(sum , current){
