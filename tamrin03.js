@@ -1,6 +1,6 @@
 
 
-//accept a string as a parameter and converts first letter of each word in uppercase:
+//accept a string as a parameter and converts first letter of each word to uppercase:
 
 function firstLetterUpperCase(str){
     let array = str.split(' ');
