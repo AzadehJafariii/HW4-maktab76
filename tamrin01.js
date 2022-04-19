@@ -1,5 +1,5 @@
 
-//exponent of a number using recursion:
+//function of exponent of a number using recursion:
 
 function exponentOfNumber(x,n){
     if (n === 0){
