@@ -1,5 +1,5 @@
 
-// function to remove the first occurrence of a given 'search string' from a string:
+// function to remove the first occurrence of a given 'search string' from string:
 // input: "The quick brown fox jumps over the lazy dog" , 'the'
 // output: "The quick brown fox jumps over lazy dog"
 
