@@ -2,7 +2,7 @@
 // function remove 'null', '0', '""', 'false', 'undefined', 'NaN' values from array:
 
 function removeFalsey(arr) {
-    // arr =(arr);
+    
     let tempArr = [];
  
     arr.forEach((item) => {
