@@ -1,5 +1,5 @@
 
-// function merge two arrays and remove duplicates:
+// function of merge two arrays and remove duplicates:
 
 function removeDuplicate(array1 , array2){
     let newArr = array1.concat(array2);
